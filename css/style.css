@@ -9,7 +9,6 @@ header {
   width: 960px;
   margin:  auto;
   background-color: rgb(219, 131, 68);
-  height: 150px;
   border-radius: 10px;
   border: 10px double rgb(65, 28, 1);
   margin-top: 25px;
@@ -27,6 +26,7 @@ h1 {
 
 nav {
   text-align: center;
+  margin-bottom:  10px;
 }
 
 header span {
