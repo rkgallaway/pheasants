@@ -104,6 +104,34 @@ main li {
   line-height: 1.4em;
 }
 
+aside {
+  color: red;
+  font-size: 2em;
+}
+
+table {
+  border: 1px solid black;
+  margin:auto;
+  border-collapse: separate;
+  border-spacing: 2px;
+}
+
+th {
+  background-color: rgba(100, 149, 237, .75);
+  border: 1px solid black;
+  padding: 5px;
+}
+
+td {
+  background-color: rgba(100, 149, 237, .5);
+  border: 1px solid black;
+  padding: 5px;
+  text-align: right;
+  border-radius: 5px;
+
+}
+
+
 /* footer */
 footer {
   width: 960px;
